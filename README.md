@@ -1,4 +1,4 @@
-# Quora_QuestionPairSimilarity
+# Quora Question Pair Similarity
 
 ### **Problem statement**
 * Predict if the questions asked in Quora are duplicates of the existing questions. 
