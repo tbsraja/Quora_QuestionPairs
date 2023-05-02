@@ -1,5 +1,7 @@
 # Quora Question Pair Similarity
 
+[Quora Question Pairs- kaggle](https://www.kaggle.com/competitions/quora-question-pairs/overview)
+
 ### **Problem statement**
 * Predict if the questions asked in Quora are duplicates of the existing questions. 
 * This could be useful to instantly provide answers to questions that have already been answered.
